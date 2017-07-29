@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-describe 'role remi' do
+describe 'role repo-remi' do
   describe package('remi-release') do
     it { should be_installed }
   end
