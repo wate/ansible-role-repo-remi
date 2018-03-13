@@ -1,4 +1,10 @@
 ---
+ansible:
+  host_vars:
+    enabled:
+      repo_remi_enabled: yes
+    disabled:
+      repo_remi_enabled: no
 dependency:
   name: galaxy
 driver:
