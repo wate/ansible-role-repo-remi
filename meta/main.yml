@@ -8,4 +8,5 @@ galaxy_info:
         - 7
   galaxy_tags: []
 
-dependencies: []
+dependencies:
+  - repo-epel
