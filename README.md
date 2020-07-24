@@ -5,7 +5,6 @@ repo-remi
 
 remiリポジトリのインストールとセットアップを行います
 
-
 Role Variables
 --------------
 
