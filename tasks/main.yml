@@ -11,3 +11,4 @@
     section: remi
     option: enabled
     value: "{{ '1' if repo_remi_enabled else '0' }}"
+    mode: "0644"
